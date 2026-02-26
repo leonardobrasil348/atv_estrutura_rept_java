@@ -7,7 +7,7 @@ public class quest6 {
         int secretNum = 245;
 
         while(){
-            
+            "teste"
         }
     }
 }
