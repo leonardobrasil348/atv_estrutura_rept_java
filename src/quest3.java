@@ -15,19 +15,7 @@ public class quest3 {
             }
         }
 
-        System.out.println("=========================");
+        System.out.println("");
 
-        int n = 1;
-        while(n <= 10){
-            System.out.println(n + "- Insira um número inteiro: ");
-            int userNum = scan.nextInt();
-
-            if (userNum % 2 == 0){
-                System.out.println(userNum + " É par");
-            }else {
-                System.out.println(userNum + " É ímpar");
-            }
-            n++;
-        }
     }
 }

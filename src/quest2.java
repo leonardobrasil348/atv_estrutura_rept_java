@@ -9,7 +9,7 @@ public class quest2 {
                 i++;
         }
 
-        System.out.println("===============");
+        System.out.println("");
 
         for (int num = 0; num <= 100; num++){
             if(num % 4 == 0) {

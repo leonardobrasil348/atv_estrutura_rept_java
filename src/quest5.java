@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class quest5 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int userNum = 0;
+        int userNum;
         int soma = 0;
 
         for (int i = 1; i <= 10; i++){
-            System.out.println(i + "- Insira sua idade: ");
+            System.out.println("Insira sua idade: ");
              userNum = scan.nextInt();
 
             soma += userNum;
