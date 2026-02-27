@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class quest8 {
+public class exercise_8 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
